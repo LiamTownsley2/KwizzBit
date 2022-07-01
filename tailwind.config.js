@@ -2,10 +2,16 @@
 module.exports = {
   content: ["./src/**/*.{html,js}"],
   theme: {
-    fontFamily: {
+      fontFamily: {
       'poppins': ['"Poppins"', 'sans-serif']
     },
-    extend: {},
+    extend: {
+      colors: {
+        'orange-1': '#f97316',
+        'orange-2': '#f59000',
+        'heading-1': '#292c3e',
+      },
+    },
   },
   plugins: [
     function ({ addVariant }) {
