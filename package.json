@@ -4,7 +4,7 @@
   "description": "I am attempting to create the KwizzBit website using Tailwinds CSS and nothing else!",
   "main": "",
   "scripts": {
-    "build": "npx tailwindcss -i ./src/input.css -o ./dist/output.css"
+    "build": "npx tailwindcss -o src/build.css --minify"
   },
   "repository": {
     "type": "git",
