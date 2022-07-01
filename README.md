@@ -11,6 +11,9 @@ I am attempting to create the KwizzBit website using Tailwinds CSS and nothing e
 You can find precompiled versions in the [Releases](https://github.com/LiamTownsley2/KwizzBit-Project/releases) tab.
 
 # How to Compile
+
+Note: I use [LiveServer](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) to view changes in realtime and view the website.
+
 1. Install Tailwinds
 `npm install -D tailwindcss`
 
