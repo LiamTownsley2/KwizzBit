@@ -1,0 +1,19 @@
+{
+  "name": "kwizzbit",
+  "version": "0.1.0",
+  "description": "I am attempting to create the KwizzBit website using Tailwinds CSS and nothing else!",
+  "main": "",
+  "scripts": {
+    "build": "npx tailwindcss -i ./src/input.css -o ./dist/output.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiamTownsley2/KwizzBit-Project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LiamTownsley2/KwizzBit-Project/issues"
+  },
+  "homepage": "https://github.com/LiamTownsley2/KwizzBit-Project#readme"
+}
